@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cbf0031c5101cbfc77923b3a",
+  "owner": "ffympwvsc",
+  "repo": "page-e8706929658d2581a83c2592",
+  "title": "SAC云(SAC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e8706929658d2581a83c2592",
+      "a": "SAC云(SAC)",
+      "b": "",
+      "entity": "SAC云(SAC)",
+      "brand": "SAC云(SAC)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6fa8552dbca044c26b09d1624e583875ca9eed3a7f2fbef747d635dbf32c8fd5",
+      "content": {
+        "keyword1": "SAC云(SAC)",
+        "keyword2": "",
+        "primary_entity": "SAC云(SAC)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SAC云(SAC)提供机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏专线与多设备客户端官方下载，套餐透明，欢迎访问官网选购基础版、旗舰版或团队版。",
+          "AI_DESCRIPTION": "SAC云(SAC)提供机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏专线与多设备客户端官方下载，套餐透明，欢迎访问官网选购基础版、旗舰版或团队版。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#F7F4EE;color:#1C2B22;line-height:1.65;font-size:16px}a{color:#1E4D3A}header{background:#1E4D3A;color:#F7F4EE}header .wrap,footer .wrap,.wrap{max-width:960px;margin:0 auto;padding:14px 16px}.brand{font-weight:700;font-size:1.15rem;letter-spacing:.02em}nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#E8F0EA;text-decoration:none;font-size:14px}h1{font-size:1.7rem;color:#1E4D3A;margin:8px 0 12px}h2{font-size:1.32rem;color:#1E4D3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2E7D5B}h3{font-size:1.08rem;color:#245C45;margin:16px 0 8px}p{margin:0 0 10px}ul{margin:0 0 12px 18px}li{margin:4px 0}.lead{font-size:1.02rem}.cards{display:flex;flex-wrap:wrap;gap:12px}.card{background:#FFFEFA;border:1px solid #C5D9CC;border-radius:8px;padding:16px;flex:1 1 250px;min-width:0}.card.featured{border:2px solid #2E7D5B;background:#F0F7F3}.tag{display:inline-block;background:#2E7D5B;color:#FFFEFA;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.4rem;font-weight:700;color:#1E4D3A}.annual{font-size:14px;color:#3D5C4C;margin:4px 0 10px}details{background:#FFFEFA;border:1px solid #C5D9CC;border-radius:6px;padding:10px 14px;margin-bottom:8px}summary{font-weight:600;color:#1E4D3A}details p{margin:8px 0 0}.ad{background:#E8F3EC;border:1px dashed #2E7D5B;padding:12px;text-align:center;margin:18px 0;border-radius:6px;font-size:14px}.steps{counter-reset:step}.steps li{margin:8px 0}footer{background:#1E4D3A;color:#E8F0EA;margin-top:32px;font-size:14px}footer a{color:#C5E0D0;text-decoration:none;margin-right:10px}footer h2,footer h3{color:#F7F4EE;border:0;margin:0 0 8px}.map a,.friends a{display:inline-block;margin:4px 10px 4px 0}@media (max-width:640px){.card{flex:1 1 100%}h1{font-size:1.45rem}nav a{font-size:13px}}</style><header><div class=\"wrap\"><div class=\"brand\">SAC云(SAC) 官网</div><nav><a href=\"#top\">首页</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">站点地图</a></nav></div></header><main class=\"wrap\" id=\"top\"><h1>SAC云(SAC)</h1><p class=\"lead\">SAC云(SAC)官方网站提供机场订阅、VPN 网络加速与多端客户端下载指引。节点覆盖跨境办公、流媒体与游戏加速需求，套餐按流量与设备数分层，年付更省。</p><section id=\"intro\"><h2>品牌简介</h2><p>SAC云(SAC)是面向个人用户与小团队的网络加速服务，核心能力是机场订阅与稳定转发。用户完成套餐开通后即可获得订阅地址，导入常用客户端即可按地区与线路类型选择节点。</p><p>服务侧重点包括日常网页与协作工具加速、基础到全节点的流媒体解锁，以及旗舰与团队线路中的 IPLC 游戏优化。官方身份以本站套餐公示、订阅发放与工单通道为准，下载与导入说明均在本页集中给出，避免来路不明的安装包。</p><p>节点池按套餐开放：基础版使用普通线路节点池；旗舰版开放全节点原生流媒体解锁与 IPLC 专线游戏加速；团队版额外提供 VIP 高带宽节点与企业定制路由。流量按自然月计算，多设备同时在线数量与套餐绑定。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为 SAC云(SAC)官网当前公示套餐，价格含月付与年付对照。旗舰版适合多数个人用户，团队版面向设备多、带宽要求高的协作场景。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>选择套餐时先估算同时在线设备数与高峰用途：轻度浏览与基础流媒体选基础版；需要原生解锁与游戏专线选旗舰版；多成员共用或需要定制路由选团队版。年付按 10 个月计价，适合长期稳定使用。</p></section><div class=\"ad\" id=\"ads\">广告合作：SAC云(SAC)官网接受品牌互换与信息流文字投放，详情见页脚联系说明。本栏仅作站点广告位展示，不跳转站外安装包。</div><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>访问海外文档、会议与代码托管时，选择延迟更低的中转节点，保持邮件、即时通讯与网盘同步稳定。团队版可按办公网段做定制路由，减少无关流量占用。</p><h3>流媒体与内容访问</h3><p>基础版覆盖常见内容平台的基础解锁；旗舰版与团队版强调全节点原生解锁，降低因共享出口导致的播放失败。建议在客户端中固定流媒体专用节点，避免频繁切换。</p><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对战与更新下载。请将游戏进程走代理、语音与启动器按客户端规则分流，以免语音与登录异常。</p><h3>差旅与多设备切换</h3><p>手机、电脑与平板同时在线时，注意套餐设备上限。差旅场景优先使用标准加密协议与系统代理，公共 Wi-Fi 下保持客户端始终开启。</p><h3>学习与资料检索</h3><p>学术站点、公开课与文献库访问可归入普通加速需求。基础版流量适合间歇使用；连续下载大型课件时建议旗舰或团队流量池。</p></section><section id=\"guide\"><h2>操作说明</h2><p>SAC云(SAC)机场订阅的标准流程如下，完成后即可在客户端中更新节点列表。</p><ol class=\"steps\"><li>在官网套餐对比中选定基础版、旗舰版或团队版，确认设备数与月流量是否匹配。</li><li>完成订阅开通后，进入用户中心复制机场订阅链接（Clash / 通用订阅格式以面板展示为准）。</li><li>打开已安装的客户端，选择从 URL 导入或添加订阅，粘贴链接并更新一次。</li><li>根据场景挑选节点：日常浏览选负载较低的中转，流媒体选解锁组，游戏选 IPLC 或低延迟专线。</li><li>开启系统代理或 TUN 模式，访问目标站点验证连通。如失败，先更新订阅再更换协议或节点。</li></ol><h3>连接与分流建议</h3><p>仅对跨境域名走代理、国内直连，可降低延迟并节省套餐流量。游戏与会议建议独立规则。流量将尽时减少大文件下载，或升级至更高档位。工单优先响应适用于旗舰版，团队版另有客户经理通道。</p></section><section id=\"download\"><h2>客户端下载与官方导入</h2><p>SAC云(SAC)不绑定单一闭源安装包，官方下载指引以通用订阅导入为主，避免第三方修改版。请从系统应用商店或客户端项目的官方发布页获取软件，再回到本站使用订阅地址。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用支持订阅的图形客户端，导入后开启系统代理。Linux 用户可使用命令行或图形前端，注意权限与 DNS 设置。本页提供说明入口：<a href=\"#guide\">操作说明</a>。</p><h3>移动端</h3><p>iOS 与 Android 请通过正规商店安装支持机场订阅的客户端，使用同一订阅链接。设备数计入套餐上限，闲置设备请在客户端中断开。</p><h3>路由与进阶</h3><p>团队版支持企业定制路由，可将订阅用于兼容的网关设备。配置前请备份原有规则，避免全量劫持内网管理地址。官方下载相关说明亦可从导航中的客户端下载锚点反复查阅。</p><p>若更新订阅后节点为空，检查链接完整性与套餐是否在有效期。不要在不明来源站点下载“破解加速器”，以免账号与设备风险。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>SAC云(SAC)是机场还是 VPN 客户端本身？</summary><p>SAC云(SAC)提供机场订阅与网络加速服务，用户使用第三方或常用开源/商业客户端导入订阅即可连接。官网负责套餐、节点策略与下载指引，而不是强制安装单一闭源程序。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在应用商店或客户端官方渠道安装支持订阅的软件，再登录 SAC云(SAC)用户中心复制订阅 URL，在客户端中选择从链接更新。详细步骤见本页操作说明与客户端下载章节。</p></details><details><summary>三个套餐应该怎么选？</summary><p>3 台设备以内、流量需求不高选基础版；需要全节点流媒体解锁、IPLC 游戏优化和优先工单选旗舰版；20 台设备、高带宽与定制路由选团队版。年付价格已在卡片中标明。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月流量用尽后新连接会受限，可等待下个计费周期或升级套餐。同时在线超过套餐台数时，新设备可能无法认证，请先断开闲置终端。</p></details><details><summary>是否保证所有流媒体平台随时可播？</summary><p>基础版提供基础解锁，旗舰版与团队版强调全节点原生解锁，实际效果仍受对端风控与地区策略影响。遇到无法播放时请更新订阅并切换解锁分组节点，必要时通过工单反馈线路。</p></details><details><summary>官网、官方网站和官方下载入口在哪里？</summary><p>您当前浏览的即为 SAC云(SAC)官网页面，套餐对比、操作说明、客户端下载与 FAQ 均在同一站点。请收藏本页锚点导航，勿通过来路不明的“加速器下载站”获取所谓官方安装包。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2 id=\"sitemap\">站点地图</h2><p class=\"map\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#\">XML Sitemap</a></p><h3>友情链接</h3><p class=\"friends\"><a href=\"#download\">多端客户端指引</a><a href=\"#guide\">机场订阅导入说明</a><a href=\"#plans\">网络加速套餐</a><a href=\"#scenes\">跨境办公场景</a><a href=\"#faq\">梯子常见问题</a></p><h3>广告与联系</h3><p>文字广告与友情链接互换请通过官网工单说明来意。SAC云(SAC)官方网站不在页面放置可执行安装包，客户端请按官方下载说明自行获取。</p><p>© SAC云(SAC) 官网 · 机场订阅与 VPN 网络加速服务</p></div></footer>",
+          "hash": "bc135f2a0af01654e335317cb299d2ac8c3cc3c07164c8e64115591f2c803df9",
+          "seo": {
+            "title": "SAC云(SAC)官网｜机场订阅 VPN网络加速与客户端官方下载",
+            "keywords": "SAC云,SAC,SAC云机场,SAC VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "SAC云(SAC)提供机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏专线与多设备客户端官方下载，套餐透明，欢迎访问官网选购基础版、旗舰版或团队版。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pweio.cn",
+    "host": "p-06b6be95ae.pweio.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pweio.cn",
+      "url": "https://pweio.cn/",
+      "label": "蚁链(AntLink)",
+      "apex": "pweio.cn",
+      "kind": null,
+      "identity": "quoqlctin/page-cad0e1d26315c7f524ce9e65"
+    },
+    {
+      "host": "anzixinxi.cn",
+      "url": "https://anzixinxi.cn/",
+      "label": "SAC云(SAC)",
+      "apex": "anzixinxi.cn",
+      "kind": null,
+      "identity": "gyhnusbwhx/page-fe9653d9d5b81037cf37156e"
+    },
+    {
+      "host": "bjmxk.cn",
+      "url": "https://bjmxk.cn/",
+      "label": "SAC云(SAC)",
+      "apex": "bjmxk.cn",
+      "kind": null,
+      "identity": "xyfyuna/page-ca2610503c097d50a2c263f5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "14e9d4eadcb9c2509014425896e2c1b969a9e3cfedf62d52cf593fc37fd4199e",
+    "sitemap.xml": "932ed85205041952bd4ec3876ac03de1eb02c2a3634c09ec32b321afca1cde0a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c15f82942fb89c90172fffffb500e7184c8d9b7b93499be1fb344db8941322a4",
+    "robots.txt": "734b5dc3e0750418b9888ae12d9a9491f4a8d1dbbe1bca78991a05d0c3c98f83",
+    "6b4e2158e09101aea04b7ebde91837fe.txt": "f61ef30bf158573bdbce23dd988267a633c24f9c05f07adb006b6ccda7b75031"
+  },
+  "revision": "12c6561554085d269f4ea6fbcf75abb0a8ccc0e087ac65ca6de01a6b5e154602"
+}
